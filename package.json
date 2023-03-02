@@ -1,0 +1,22 @@
+{
+  "name": "pushpaq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitlekh/pushpaq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitlekh/pushpaq/issues"
+  },
+  "homepage": "https://github.com/mohitlekh/pushpaq#readme",
+  "dependencies": {
+    "firebase": "^9.17.1"
+  }
+}
